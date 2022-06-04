@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Rama Chetan Atmudi",
+    "description":"Hello World",
+    "image":"profilepic.jpg",
+    "bio":"Raised in Visakhapatnam, Andhra Pradesh, I made my move to New Jersey where I am pursuing my masters in CE at NJIT. I recieved my Bachelors from Indian Institute of Technology, Bhubaneswar.  I love to create and tend to keep a few too many projects on the go at a time. I currently work as a Research Assistant working with Augmented and Virtual Reality Applications. Outside of work I am a petrolhead, I love to travel. I dream of being able to take my work with me while travelling the world. I watch Formula One and Cricket avidly MAX and MS are my favorites",
+    "email": "ramachetan22@gmail.com",
+    "phone": "+1 (862)-754-4963",
+    "github":"https://github.com/Ramachetan",
+    "project":"https://www.researchgate.net/profile/Rama-Atmudi",
+    "linkedin": "https://www.linkedin.com/in/rama-chetan/",
+    "address":{
+      "city":"Newark, ",
+      "state":"New Jersey"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1PtZTbIyQ3QuHr-j6BRufYlGil_bJYDS4/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://media.makeameme.org/created/so-you-still-5ce226.jpg",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/RamaChetan1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rama-chetan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ramachetan.jpeg/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ramachetan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skills based on my assumptions",
+    "education":[
+      {
+        "school":"New Jersey Institute of Technology",
+        "degree":"Masters in Computer Engineering",
+        "graduated":"Dec 2022",
+        "description":""
+      },
+      {
+        "school":"Indian Institute of Technology Bhubaneswar (IIT)",
+        "degree":"Bachelors in Computer Science and Engineering",
+        "graduated":"Dec 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"New Jersey Institute of Technology",
+        "title":"Interactive Design Student Research Assistant",
+        "years":"Sep 2021 - Present",
+        "description":"Led by Dr. Hyejin Hannah Kum-Biocca I develop applications for AR/VR design Interactive prototype. My work include collaborating with research colleagues and support staff internally as appropriate to the work and to actively develop appropriate external contacts and networks relevant to the project and to future funding opportunities and also Providing guidance and support to any students associated with the project."
+      },
+      {
+        "company":"Siri Inc",
+        "title":"Intern",
+        "years":"May 2020 - October 2020",
+        "description":"Designed a tool for detecting face masks to help them create a safer environment during this pandemic and simultaneously presented a paper at an International conference ICDSMLA 2020 at Pune."
+      },
+      {
+        "company":"Web Synergies",
+        "title":"Intern",
+        "description": "The project that I worked will assist in the storage and security of academic certificates on the block chain system. The paper certificates issued by the institutes will be converted to digital certificates. The hash code value for the certificate is generated using the chaotic algorithm. The certificates are then stored on the block chain. And the mobile/web application is used to validate these certificates. Also assisted in creating a Windows application for the project mentioned above using C# and .net"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"C",
+        "level":"90%"
+      },
+      {
+        "name":"JS",
+        "level":"40%"
+      },
+      {
+        "name":"CSS/HTML",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Wireless USB",
+        "category":"It's Embedded System Class Project",
+        "image":"01.jpg",
+        "url":"https://github.com/Ramachetan/ECE-692-Project"
+      },
+      {
+        "title":"Multimedia Over IP",
+        "category":"It's Computer Networks Class Project",
+        "image":"02.jpg",
+        "url":"https://github.com/Ramachetan/IHLP-Final-Project"
+      },
+      {
+        "title":"MADE",
+        "category":"Designing MADE, an Augmented Reality Application for Macromolecule Visualization.",
+        "image":"03.jpg",
+        "url":"https://www.researchgate.net/publication/360461818_Designing_MADE_an_Augmented_Reality_Application_for_Macromolecule_Visualization"
+      },
+      {
+        "title":"Self Driving Escort Vehicle",
+        "category":"A simple Virtual self driving car build using Ananconda",
+        "image":"04.jpg",
+        "url":"https://www.researchgate.net/publication/346306335_Machine_Learning_based_Self_Driving_Escort_Vehicle/figures"
+      }
+    ]
+  }
+}
