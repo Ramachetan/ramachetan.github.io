@@ -75,6 +75,7 @@
       {
         "company":"Web Synergies",
         "title":"Intern",
+        "years": "March 2019 - July 2019",
         "description": "The project that I worked will assist in the storage and security of academic certificates on the block chain system. The paper certificates issued by the institutes will be converted to digital certificates. The hash code value for the certificate is generated using the chaotic algorithm. The certificates are then stored on the block chain. And the mobile/web application is used to validate these certificates. Also assisted in creating a Windows application for the project mentioned above using C# and .net"
       }
     ],
