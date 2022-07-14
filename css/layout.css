@@ -202,8 +202,8 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -875,6 +875,7 @@ call-to-action .button {
 	color: #0D0D0D;
 	background: #fff;
 }
+
 #contact span.required {
 	color: #0762f9;
 	font-size: 13px;
@@ -1020,5 +1021,5 @@ footer .social-links li:first-child { margin-left: 0; }
    background-color: #1abc9c !important;
 }
 .github-btn{
-   background-color: #34495e !important;
+   background-color: #53718f !important;
 }
